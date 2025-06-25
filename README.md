@@ -34,5 +34,5 @@ A Gardening Community & Resource Hub is a web-based platform where gardening ent
 ---
 
 
-```markdown
-![Homepage Screenshot](https://your-image-link.com/screenshot.png)
+<!-- ```markdown
+![Homepage Screenshot](https://your-image-link.com/screenshot.png) -->
